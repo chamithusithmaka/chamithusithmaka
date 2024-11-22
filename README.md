@@ -18,10 +18,10 @@
 <h2 align="center">🛠️ Skills and Technologies</h2>
 
 ### 💻 Programming Languages
-- **Java | Python | C++ | C# | Kotlin | JavaScript**
+- **Java | Python | C | C++ | C# | Kotlin | JavaScript**
 
 ### 🌐 Web Development
-- **HTML | CSS | Bootstrap | Tailwind CSS | React | Angular | MERN Stack**
+- **HTML | CSS | Bootstrap | Tailwind CSS | React | MERN Stack**
 
 ### 🛢️ Databases
 - **MongoDB | MySQL | SQLite**
