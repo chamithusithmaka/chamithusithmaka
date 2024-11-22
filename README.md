@@ -30,9 +30,9 @@
 
 <h3 align="center">📫 Connect with Me</h3>
 <p align="center">
-<a href="https://linkedin.com/in/sithmaka nanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sithmaka nanayakkara" height="30" width="40" /></a>
-<a href="https://fb.com/sithmaka nanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sithmaka nanayakkara" height="30" width="40" /></a>
-<a href="https://instagram.com/sithmakananayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sithmakananayakkara" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/sithmaka nanayakkara](https://www.linkedin.com/in/sithmaka-nanayakkara-201353338/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sithmaka nanayakkara" height="30" width="40" /></a>
+<a href="[https://fb.com/sithmaka nanayakkara](https://www.facebook.com/share/TXcC4Z7LbqjE2gWf/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sithmaka nanayakkara" height="30" width="40" /></a>
+<a href="[https://instagram.com/sithmakananayakkara](https://www.instagram.com/sithmakananayakkara/profilecard/?igsh=MW54MGU5aHJrYmRtNw==)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sithmakananayakkara" height="30" width="40" /></a>
 </p>
 
 ---
