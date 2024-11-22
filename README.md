@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sithmaka Nanaykkara</h1>
 <h3 align="center">A passionate Full Stack Developer and Software Engineering Enthusiast from Sri Lanka</h3>
 
-- 🌱 I’m currently learning **Microservices architecture and CI/CD pipelines.**
+
 
 - 👯 I’m looking to collaborate on **Open-source projects related to Web Development and Mobile App Development.**
 
