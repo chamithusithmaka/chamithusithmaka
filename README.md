@@ -3,9 +3,13 @@
 
 ---
 
+- 🌱 I'm constantly learning and exploring new technologies.
+
+- 👨‍💻 My primary focus is on software development and problem-solving.
+
 - 👯 I’m looking to collaborate on **Open-source projects related to Web Development and Mobile App Development.**
 
-- 💬 Ask me about **MERN Stack Development, Mobile App Development with Kotlin, and Cloud Technologies.**
+- 💬 Ask me about **MERN Stack Development, Mobile App Development with Kotlin.**
 
 - 📫 How to reach me **chamithusithmaka@gmail.com**
 
@@ -22,22 +26,14 @@
 ### 🛢️ Databases
 - **MongoDB | MySQL | SQLite**
 
-### ☁️ Others
-- **Cloud Computing | CI/CD Pipelines | Microservices | Distributed Systems**
-
 ---
 
 <h3 align="center">📫 Connect with Me</h3>
-<p align="center">
-<a href="https://linkedin.com/in/sithmaka-nanayakkara" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="mailto:chamithusithmaka@gmail.com" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
-</a>
-<a href="https://your-portfolio-link.com" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/web.svg" alt="Portfolio" height="30" width="40" />
-</a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sithmaka nanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sithmaka nanayakkara" height="30" width="40" /></a>
+<a href="https://fb.com/sithmaka nanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sithmaka nanayakkara" height="30" width="40" /></a>
+<a href="https://instagram.com/sithmakananayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sithmakananayakkara" height="30" width="40" /></a>
 </p>
 
 ---
