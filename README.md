@@ -30,10 +30,17 @@
 
 <h3 align="center">📫 Connect with Me</h3>
 <p align="center">
-<a href="[https://linkedin.com/in/sithmaka nanayakkara](https://www.linkedin.com/in/sithmaka-nanayakkara-201353338/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sithmaka nanayakkara" height="30" width="40" /></a>
-<a href="[https://fb.com/sithmaka nanayakkara](https://www.facebook.com/share/TXcC4Z7LbqjE2gWf/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sithmaka nanayakkara" height="30" width="40" /></a>
-<a href="[https://instagram.com/sithmakananayakkara](https://www.instagram.com/sithmakananayakkara/profilecard/?igsh=MW54MGU5aHJrYmRtNw==)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sithmakananayakkara" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/sithmaka-nanayakkara-201353338/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/share/TXcC4Z7LbqjE2gWf/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook Profile" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/sithmakananayakkara/profilecard/?igsh=MW54MGU5aHJrYmRtNw==" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram Profile" height="30" width="40" />
+  </a>
 </p>
+
 
 ---
 
