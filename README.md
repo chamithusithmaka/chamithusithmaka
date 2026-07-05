@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🌌  SITHMAKA NANAYAKKARA — FUTURISTIC GITHUB PROFILE README                          -->
+<!--  SITHMAKA NANAYAKKARA — GITHUB PROFILE README                                        -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -9,7 +9,7 @@
 
 <!-- ─── TYPING SVG ─── -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%9A%80+Building+the+future%2C+one+commit+at+a+time;%E2%9A%A1+Full+Stack+%7C+AI%2FML+%7C+DevOps+%7C+Mobile+%7C+Cloud;%F0%9F%8E%AF+Software+Engineering+Undergraduate+%40+SLIIT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+the+future%2C+one+commit+at+a+time;Full+Stack+%7C+AI%2FML+%7C+DevOps+%7C+Mobile+%7C+Cloud;Software+Engineering+Undergraduate+%40+SLIIT" alt="Typing SVG" />
 </a>
 
 <!-- ─── PROFILE VIEWS & FOLLOWERS ─── -->
@@ -25,18 +25,20 @@
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🧬 ABOUT ME                                                                            -->
+<!--  ABOUT ME                                                                              -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
 
 <br/>
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF"/>
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding Animation"/>
 
-## 🧬 &nbsp;About Me
+<h2>
+  <img src="https://img.shields.io/badge/ABOUT-ME-818cf8?style=for-the-badge&labelColor=0d1117" alt="About Me"/>
+</h2>
 
 ```yaml
 name: Sithmaka Nanayakkara
-located_in: Sri Lanka 🇱🇰
+located_in: Sri Lanka
 education: BSc (Hons) IT @ SLIIT — Software Engineering
 role: Full Stack Developer | AI Enthusiast
 experience:
@@ -47,35 +49,42 @@ currently_learning:
   - Advanced AI & Prompt Engineering
   - Microservices at Scale
 hobbies:
-  - Building side projects 🛠️
-  - Exploring new tech 🔬
-  - Problem solving 🧩
+  - Building side projects
+  - Exploring new tech
+  - Problem solving
 ```
 
 <br/>
 
-- 🔭 &nbsp;Currently building **AI-powered applications** & **Cloud-Native systems**
-- 🌱 &nbsp;Deepening expertise in **Azure**, **CI/CD Pipelines**, and **Multi-Agent AI Systems**
-- 💡 &nbsp;Passionate about **Microservices Architecture**, **DevOps**, and **Mobile Development**
-- 🤖 &nbsp;Experienced in **Prompt Engineering** & **AI Bot Development**
-- 📫 &nbsp;Reach me at **chamithusithmaka@gmail.com**
-- ⚡ &nbsp;Fun fact: I've completed **9+ months of industry internships** across AI & Enterprise Software
+- Currently building **AI-powered applications** & **Cloud-Native systems**
+- Deepening expertise in **Azure**, **CI/CD Pipelines**, and **Multi-Agent AI Systems**
+- Passionate about **Microservices Architecture**, **DevOps**, and **Mobile Development**
+- Experienced in **Prompt Engineering** & **AI Bot Development**
+- Reach me at **chamithusithmaka@gmail.com**
+- Completed **9+ months of industry internships** across AI & Enterprise Software
 
 <br clear="both"/>
 
+<!-- ─── DIVIDER GIF ─── -->
+<div align="center">
+  <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Divider"/>
+</div>
+
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🏢 WORK EXPERIENCE                                                                     -->
+<!--  WORK EXPERIENCE                                                                       -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
 
-## 💼 &nbsp;Work Experience
+<h2>
+  <img src="https://img.shields.io/badge/WORK-EXPERIENCE-a855f7?style=for-the-badge&labelColor=0d1117" alt="Work Experience"/>
+</h2>
 
 <table>
 <tr>
 <td width="50%">
 
-### 🤖 Software Engineer Intern
+**Software Engineer Intern**  
 **SLIIT Faculty of Computing — Gen AI Team**  
-📅 Nov 2025 — May 2026 &nbsp;|&nbsp; 📍 Malabe, Sri Lanka
+`Nov 2025 — May 2026` · Malabe, Sri Lanka
 
 > AI Bot Development & Prompt Engineering
 
@@ -89,9 +98,9 @@ hobbies:
 </td>
 <td width="50%">
 
-### 🏗️ Software Engineer Intern
+**Software Engineer Intern**  
 **National Water Supply & Drainage Board (NWSDB)**  
-📅 Sep 2025 — Dec 2025 &nbsp;|&nbsp; 📍 Ratmalana, Sri Lanka
+`Sep 2025 — Dec 2025` · Ratmalana, Sri Lanka
 
 > ERP System — Water Quality Management Module
 
@@ -106,14 +115,17 @@ hobbies:
 </table>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🛠️ TECH STACK                                                                          -->
+<!--  TECH STACK                                                                            -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
 
-## 🛠️ &nbsp;Tech Arsenal
+<h2>
+  <img src="https://img.shields.io/badge/TECH-ARSENAL-7c3aed?style=for-the-badge&labelColor=0d1117" alt="Tech Arsenal"/>
+</h2>
 
 <div align="center">
 
-### 💻 Programming Languages
+<img src="https://img.shields.io/badge/PROGRAMMING_LANGUAGES-0d1117?style=flat-square&labelColor=0d1117" alt="Programming Languages"/>
+
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -128,7 +140,8 @@ hobbies:
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 </p>
 
-### 🌐 Frontend & UI
+<img src="https://img.shields.io/badge/FRONTEND_&_UI-0d1117?style=flat-square&labelColor=0d1117" alt="Frontend"/>
+
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -141,7 +154,8 @@ hobbies:
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
 </p>
 
-### ⚙️ Backend & Frameworks
+<img src="https://img.shields.io/badge/BACKEND_&_FRAMEWORKS-0d1117?style=flat-square&labelColor=0d1117" alt="Backend"/>
+
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
@@ -153,7 +167,8 @@ hobbies:
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white"/>
 </p>
 
-### 🗄️ Databases
+<img src="https://img.shields.io/badge/DATABASES-0d1117?style=flat-square&labelColor=0d1117" alt="Databases"/>
+
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -164,7 +179,8 @@ hobbies:
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
-### 🤖 AI / ML
+<img src="https://img.shields.io/badge/AI_/_MACHINE_LEARNING-0d1117?style=flat-square&labelColor=0d1117" alt="AI/ML"/>
+
 <p>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
@@ -174,7 +190,8 @@ hobbies:
   <img src="https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
-### ☁️ DevOps & Cloud
+<img src="https://img.shields.io/badge/DEVOPS_&_CLOUD-0d1117?style=flat-square&labelColor=0d1117" alt="DevOps"/>
+
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
@@ -186,7 +203,8 @@ hobbies:
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-### 🧪 Testing
+<img src="https://img.shields.io/badge/TESTING-0d1117?style=flat-square&labelColor=0d1117" alt="Testing"/>
+
 <p>
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
@@ -194,7 +212,8 @@ hobbies:
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
-### 🔧 Tools & IDEs
+<img src="https://img.shields.io/badge/TOOLS_&_IDEs-0d1117?style=flat-square&labelColor=0d1117" alt="Tools"/>
+
 <p>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
@@ -209,44 +228,65 @@ hobbies:
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- 📊 GITHUB STATS                                                                        -->
+<!--  GITHUB STATS                                                                          -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
 
-## 📊 &nbsp;GitHub Analytics
+<h2>
+  <img src="https://img.shields.io/badge/GITHUB-ANALYTICS-818cf8?style=for-the-badge&labelColor=0d1117" alt="GitHub Analytics"/>
+</h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=chamithusithmaka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=a78bfa&text_color=c9d1d9&ring_color=818cf8" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamithusithmaka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9&langs_count=10" alt="Top Languages"/>
+  <a href="https://github.com/chamithusithmaka">
+    <img width="49%" src="https://github-stats-extended.vercel.app/api?username=chamithusithmaka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=a78bfa&text_color=c9d1d9&ring_color=818cf8" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/chamithusithmaka">
+    <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=chamithusithmaka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9&langs_count=10" alt="Top Languages"/>
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=chamithusithmaka&theme=tokyonight&hide_border=true&background=0d1117&ring=818cf8&fire=a855f7&currStreakLabel=818cf8&sideLabels=c9d1d9&dates=6b7280" alt="GitHub Streak"/>
+  <a href="https://github.com/chamithusithmaka">
+    <img width="60%" src="https://streak-stats.demolab.com/?user=chamithusithmaka&theme=tokyonight&hide_border=true&background=0d1117&ring=818cf8&fire=a855f7&currStreakLabel=818cf8&sideLabels=c9d1d9&dates=6b7280" alt="GitHub Streak"/>
+  </a>
 </div>
 
 <br/>
 
 <!-- ─── CONTRIBUTION GRAPH ─── -->
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=chamithusithmaka&bg_color=0d1117&color=818cf8&line=a855f7&point=c084fc&area=true&area_color=4f46e5&hide_border=true&custom_title=📈%20Contribution%20Graph" alt="Contribution Graph"/>
+  <a href="https://github.com/chamithusithmaka">
+    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=chamithusithmaka&bg_color=0d1117&color=818cf8&line=a855f7&point=c084fc&area=true&area_color=4f46e5&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
+  </a>
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🏆 TROPHIES                                                                            -->
+<!--  TROPHIES                                                                              -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
 
-## 🏆 &nbsp;GitHub Trophies
+<h2>
+  <img src="https://img.shields.io/badge/GITHUB-TROPHIES-a855f7?style=for-the-badge&labelColor=0d1117" alt="GitHub Trophies"/>
+</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chamithusithmaka&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+  <a href="https://github.com/chamithusithmaka">
+    <img src="https://github-profile-trophy.vercel.app/?username=chamithusithmaka&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+  </a>
+</div>
+
+<!-- ─── DIVIDER GIF ─── -->
+<div align="center">
+  <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Divider"/>
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🚀 FEATURED PROJECTS                                                                   -->
+<!--  FEATURED PROJECTS                                                                     -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
 
-## 🚀 &nbsp;Featured Projects
+<h2>
+  <img src="https://img.shields.io/badge/FEATURED-PROJECTS-7c3aed?style=for-the-badge&labelColor=0d1117" alt="Featured Projects"/>
+</h2>
 
 <div align="center">
 
@@ -254,36 +294,36 @@ hobbies:
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 CloudCart — Microservice E-Commerce
-[![CloudCart](https://img.shields.io/badge/🔗_View_Project-4f46e5?style=for-the-badge&logoColor=white)](https://github.com/chamithusithmaka/cloudcart-ecommerce-microservice)
+**CloudCart — Microservice E-Commerce**  
+[![View Project](https://img.shields.io/badge/View_Project-4f46e5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chamithusithmaka/cloudcart-ecommerce-microservice)
 
 > Scalable microservices e-commerce platform deployed on **Microsoft Azure** with full CI/CD pipeline
 
 `React` `Node.js` `Express.js` `MongoDB` `Docker`  
 `Azure` `GitHub Actions` `SonarCloud` `Swagger`
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-a855f7?style=flat-square)](https://frontend.gentleglacier-0204e61b.southeastasia.azurecontainerapps.io/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-a855f7?style=flat-square&logo=microsoftazure&logoColor=white)](https://frontend.gentleglacier-0204e61b.southeastasia.azurecontainerapps.io/)
 
 </td>
 <td width="50%" valign="top">
 
-### 🧘 Serenity — AI Wellness Companion
-[![Serenity](https://img.shields.io/badge/🔗_View_Project-4f46e5?style=for-the-badge&logoColor=white)](https://github.com/chamithusithmaka/WellnessApp)
+**Serenity — AI Wellness Companion**  
+[![View Project](https://img.shields.io/badge/View_Project-4f46e5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chamithusithmaka/WellnessApp)
 
 > Cross-platform Flutter app with **AI chatbot**, mood analysis, guided journaling & crisis detection
 
 `Flutter` `Dart` `Firebase` `Gemini API` `SQLite`  
 `OpenRouter API` `Custom NLP` `fl_chart`
 
-[![Download APK](https://img.shields.io/badge/📱_Download_APK-a855f7?style=flat-square)](https://drive.google.com/file/d/1luEXGqorfIf-YNVT550xstaDimCkUMBV/view)
+[![Download APK](https://img.shields.io/badge/Download_APK-a855f7?style=flat-square&logo=android&logoColor=white)](https://drive.google.com/file/d/1luEXGqorfIf-YNVT550xstaDimCkUMBV/view)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🏛️ CivicLens — AI Political Engagement
-[![CivicLens](https://img.shields.io/badge/🔗_View_Project-4f46e5?style=for-the-badge&logoColor=white)](https://github.com/chamithusithmaka/CivicLens-Backend)
+**CivicLens — AI Political Engagement**  
+[![View Project](https://img.shields.io/badge/View_Project-4f46e5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chamithusithmaka/CivicLens-Backend)
 
 > AI-powered mobile app for politician tracking, multilingual quizzes & **PoliBot** chatbot
 
@@ -293,8 +333,8 @@ hobbies:
 </td>
 <td width="50%" valign="top">
 
-### 🍽️ FoodMind — AI Food Recommendation
-[![FoodMind](https://img.shields.io/badge/🔗_View_Project-4f46e5?style=for-the-badge&logoColor=white)](https://github.com/ImalAyodya/food-recommendation-mas)
+**FoodMind — AI Food Recommendation**  
+[![View Project](https://img.shields.io/badge/View_Project-4f46e5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ImalAyodya/food-recommendation-mas)
 
 > Multi-agent AI system with **LangGraph** orchestration for personalized food recommendations
 
@@ -306,8 +346,8 @@ hobbies:
 <tr>
 <td width="50%" valign="top">
 
-### 🌾 AgroConnect — Agricultural Platform
-[![AgroConnect](https://img.shields.io/badge/🔗_View_Project-4f46e5?style=for-the-badge&logoColor=white)](https://github.com/chamithusithmaka/AgroConnect)
+**AgroConnect — Agricultural Platform**  
+[![View Project](https://img.shields.io/badge/View_Project-4f46e5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chamithusithmaka/AgroConnect)
 
 > Comprehensive **Flutter** app connecting farmers, experts & stakeholders with AI-powered group recommendations
 
@@ -317,8 +357,8 @@ hobbies:
 </td>
 <td width="50%" valign="top">
 
-### 📊 Loan Default Prediction
-[![MLProject](https://img.shields.io/badge/🔗_View_Project-4f46e5?style=for-the-badge&logoColor=white)](https://github.com/chamithusithmaka/MLproject)
+**Loan Default Prediction**  
+[![View Project](https://img.shields.io/badge/View_Project-4f46e5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chamithusithmaka/MLproject)
 
 > ML classification system comparing **4 algorithms** with SMOTE handling achieving **81.85% accuracy**
 
@@ -330,20 +370,22 @@ hobbies:
 </table>
 
 <a href="https://github.com/chamithusithmaka?tab=repositories">
-  <img src="https://img.shields.io/badge/🔍_View_All_Repositories-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="View All Repos"/>
+  <img src="https://img.shields.io/badge/View_All_Repositories-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="View All Repos"/>
 </a>
 
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🎓 CERTIFICATIONS                                                                      -->
+<!--  CERTIFICATIONS                                                                        -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
 
-## 🎓 &nbsp;Certifications
+<h2>
+  <img src="https://img.shields.io/badge/CERTIFICATIONS-818cf8?style=for-the-badge&labelColor=0d1117" alt="Certifications"/>
+</h2>
 
 <div align="center">
 
-| 🏅 Certification | 🏢 Organization | 📅 Year |
+| Certification | Organization | Year |
 |:---|:---|:---:|
 | **Artificial Intelligence & Machine Learning Engineer** (Stage 1) | SLIIT | 2025 |
 | **MongoDB Atlas Administrator Path** | MongoDB University | 2025 |
@@ -351,25 +393,29 @@ hobbies:
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🎯 CURRENT FOCUS                                                                       -->
+<!--  CURRENT FOCUS                                                                         -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
 
-## 🎯 &nbsp;Current Focus
+<h2>
+  <img src="https://img.shields.io/badge/CURRENT-FOCUS-a855f7?style=for-the-badge&labelColor=0d1117" alt="Current Focus"/>
+</h2>
 
 ```text
-🏗️  Cloud-Native Architecture     ████████████████████░░   90%
-🤖  AI & Prompt Engineering       ███████████████████░░░   85%
-🔄  CI/CD & DevOps                █████████████████░░░░░   80%
-📱  Cross-Platform Mobile Dev     █████████████████░░░░░   80%
-☁️  Microsoft Azure               ████████████████░░░░░░   75%
-🧪  Microservices Architecture    ████████████████░░░░░░   75%
+Cloud-Native Architecture      ████████████████████░░   90%
+AI & Prompt Engineering        ███████████████████░░░   85%
+CI/CD & DevOps                 █████████████████░░░░░   80%
+Cross-Platform Mobile Dev      █████████████████░░░░░   80%
+Microsoft Azure                ████████████████░░░░░░   75%
+Microservices Architecture     ████████████████░░░░░░   75%
 ```
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🐍 SNAKE ANIMATION                                                                     -->
+<!--  SNAKE ANIMATION                                                                       -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
 
-## 🐍 &nbsp;Contribution Snake
+<h2>
+  <img src="https://img.shields.io/badge/CONTRIBUTION-SNAKE-7c3aed?style=for-the-badge&labelColor=0d1117" alt="Contribution Snake"/>
+</h2>
 
 <div align="center">
   <picture>
@@ -379,13 +425,15 @@ hobbies:
   </picture>
 </div>
 
-> 💡 **Note:** To enable the snake animation, create a GitHub Action in your profile repo. See [snk action](https://github.com/Platane/snk) for setup instructions.
+> **Note:** The snake animation requires a GitHub Action in your profile repo. See setup instructions below or the [snk action](https://github.com/Platane/snk) docs.
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- 📫 CONNECT                                                                             -->
+<!--  CONNECT                                                                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
 
-## 📫 &nbsp;Let's Connect
+<h2>
+  <img src="https://img.shields.io/badge/LET'S-CONNECT-818cf8?style=for-the-badge&labelColor=0d1117" alt="Connect"/>
+</h2>
 
 <div align="center">
 
@@ -411,19 +459,7 @@ hobbies:
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- 💡 QUOTE                                                                               -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-
 <br/>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
 
 <!-- ─── FOOTER WAVE ─── -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,25:7c3aed,50:4f46e5,75:1a1b4b,100:0d1117&height=120&section=footer"/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ⭐ If you like my work, consider giving a star to my repos!                             -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
