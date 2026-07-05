@@ -8,6 +8,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1a1b4b,50:4f46e5,75:7c3aed,100:a855f7&height=220&section=header&text=SITHMAKA%20NANAYAKKARA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Cloud%20Native%20Builder&descSize=16&descAlignY=55&descAlign=50"/>
 
 <!-- ─── TYPING SVG ─── -->
+<br/><br/>
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+the+future%2C+one+commit+at+a+time;Full+Stack+%7C+AI%2FML+%7C+DevOps+%7C+Mobile+%7C+Cloud;Software+Engineering+Undergraduate+%40+SLIIT" alt="Typing SVG" />
 </a>
@@ -262,16 +263,25 @@ hobbies:
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!--  TROPHIES                                                                              -->
+<!--  PINNED PROJECTS SHOWCASE                                                              -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
 
 <h2>
-  <img src="https://img.shields.io/badge/GITHUB-TROPHIES-a855f7?style=for-the-badge&labelColor=0d1117" alt="GitHub Trophies"/>
+  <img src="https://img.shields.io/badge/TOP-REPOSITORIES-a855f7?style=for-the-badge&labelColor=0d1117" alt="Top Repositories"/>
 </h2>
 
 <div align="center">
-  <a href="https://github.com/chamithusithmaka">
-    <img src="https://github-profile-trophy.vercel.app/?username=chamithusithmaka&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+  <a href="https://github.com/chamithusithmaka/cloudcart-ecommerce-microservice">
+    <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=chamithusithmaka&repo=cloudcart-ecommerce-microservice&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=a78bfa&text_color=c9d1d9" alt="CloudCart"/>
+  </a>
+  <a href="https://github.com/chamithusithmaka/WellnessApp">
+    <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=chamithusithmaka&repo=WellnessApp&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=a78bfa&text_color=c9d1d9" alt="Serenity"/>
+  </a>
+  <a href="https://github.com/chamithusithmaka/AgroConnect">
+    <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=chamithusithmaka&repo=AgroConnect&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=a78bfa&text_color=c9d1d9" alt="AgroConnect"/>
+  </a>
+  <a href="https://github.com/chamithusithmaka/MLproject">
+    <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=chamithusithmaka&repo=MLproject&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=a78bfa&text_color=c9d1d9" alt="ML Project"/>
   </a>
 </div>
 
@@ -425,7 +435,23 @@ Microservices Architecture     ████████████████�
   </picture>
 </div>
 
-> **Note:** The snake animation requires a GitHub Action in your profile repo. See setup instructions below or the [snk action](https://github.com/Platane/snk) docs.
+<!--
+  SNAKE SETUP INSTRUCTIONS:
+  ─────────────────────────
+  The snake will appear once the GitHub Action runs successfully.
+  
+  1. Go to your profile repo: https://github.com/chamithusithmaka/chamithusithmaka
+  2. Make sure the .github/workflows/snake.yml file exists (you already added it)
+  3. Go to: Settings > Actions > General
+     - Under "Workflow permissions", select "Read and write permissions"
+     - Click Save
+  4. Go to: Actions tab > Click "Generate Snake Animation" on the left
+     - Click "Run workflow" > "Run workflow"
+  5. Wait ~30 seconds for it to complete (green checkmark)
+  6. The snake SVG will be pushed to the 'output' branch and appear here automatically
+  
+  If it still fails, check the workflow run logs for errors.
+-->
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
 <!--  CONNECT                                                                               -->
