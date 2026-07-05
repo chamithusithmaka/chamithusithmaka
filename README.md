@@ -5,11 +5,11 @@
 <div align="center">
 
 <!-- ─── ANIMATED HEADER BANNER ─── -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1a1b4b,50:4f46e5,75:7c3aed,100:a855f7&height=220&section=header&text=SITHMAKA%20NANAYAKKARA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Cloud%20Native%20Builder&descSize=16&descAlignY=55&descAlign=50"/>
+<picture><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1a1b4b,50:4f46e5,75:7c3aed,100:a855f7&height=220&section=header&text=SITHMAKA%20NANAYAKKARA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Cloud%20Native%20Builder&descSize=16&descAlignY=55&descAlign=50"/></picture>
 
 <!-- ─── TYPING SVG ─── -->
 <br/><br/>
-<a href="#"<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+the+future%2C+one+commit+at+a+time;Full+Stack+%7C+AI%2FML+%7C+DevOps+%7C+Mobile+%7C+Cloud;Software+Engineering+Undergraduate+%40+SLIIT" alt="Typing SVG" />
+<picture><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+the+future%2C+one+commit+at+a+time;Full+Stack+%7C+AI%2FML+%7C+DevOps+%7C+Mobile+%7C+Cloud;Software+Engineering+Undergraduate+%40+SLIIT" alt="Typing SVG" /></picture>
 
 <!-- ─── PROFILE VIEWS & FOLLOWERS ─── -->
 <br/>
@@ -30,10 +30,10 @@
 <br/>
 
 <h2>
-  <img src="https://img.shields.io/badge/ABOUT-ME-818cf8?style=for-the-badge&labelColor=0d1117" alt="About Me"/>
+  <picture><img src="https://img.shields.io/badge/ABOUT-ME-818cf8?style=for-the-badge&labelColor=0d1117" alt="About Me"/></picture>
 </h2>
 
-<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding Animation"/>
+<picture><img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding Animation"/></picture>
 
 ```yaml
 name: Sithmaka Nanayakkara
@@ -66,7 +66,7 @@ hobbies:
 
 <!-- ─── DIVIDER GIF ─── -->
 <div align="center">
-  <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Divider"/>
+  <picture><img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Divider"/></picture>
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
@@ -74,7 +74,7 @@ hobbies:
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
 
 <h2>
-  <img src="https://img.shields.io/badge/WORK-EXPERIENCE-a855f7?style=for-the-badge&labelColor=0d1117" alt="Work Experience"/>
+  <picture><img src="https://img.shields.io/badge/WORK-EXPERIENCE-a855f7?style=for-the-badge&labelColor=0d1117" alt="Work Experience"/></picture>
 </h2>
 
 <table>
@@ -118,7 +118,7 @@ hobbies:
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
 
 <h2>
-  <img src="https://img.shields.io/badge/TECH-ARSENAL-7c3aed?style=for-the-badge&labelColor=0d1117" alt="Tech Arsenal"/>
+  <picture><img src="https://img.shields.io/badge/TECH-ARSENAL-7c3aed?style=for-the-badge&labelColor=0d1117" alt="Tech Arsenal"/></picture>
 </h2>
 
 <div align="center">
@@ -231,7 +231,7 @@ hobbies:
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
 
 <h2>
-  <img src="https://img.shields.io/badge/GITHUB-ANALYTICS-818cf8?style=for-the-badge&labelColor=0d1117" alt="GitHub Analytics"/>
+  <picture><img src="https://img.shields.io/badge/GITHUB-ANALYTICS-818cf8?style=for-the-badge&labelColor=0d1117" alt="GitHub Analytics"/></picture>
 </h2>
 
 <div align="center">
@@ -265,7 +265,7 @@ hobbies:
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
 
 <h2>
-  <img src="https://img.shields.io/badge/TOP-REPOSITORIES-a855f7?style=for-the-badge&labelColor=0d1117" alt="Top Repositories"/>
+  <picture><img src="https://img.shields.io/badge/TOP-REPOSITORIES-a855f7?style=for-the-badge&labelColor=0d1117" alt="Top Repositories"/></picture>
 </h2>
 
 <div align="center">
@@ -285,7 +285,7 @@ hobbies:
 
 <!-- ─── DIVIDER GIF ─── -->
 <div align="center">
-  <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Divider"/>
+  <picture><img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Divider"/></picture>
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
@@ -293,7 +293,7 @@ hobbies:
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
 
 <h2>
-  <img src="https://img.shields.io/badge/FEATURED-PROJECTS-7c3aed?style=for-the-badge&labelColor=0d1117" alt="Featured Projects"/>
+  <picture><img src="https://img.shields.io/badge/FEATURED-PROJECTS-7c3aed?style=for-the-badge&labelColor=0d1117" alt="Featured Projects"/></picture>
 </h2>
 
 <div align="center">
@@ -388,7 +388,7 @@ hobbies:
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
 
 <h2>
-  <img src="https://img.shields.io/badge/CERTIFICATIONS-818cf8?style=for-the-badge&labelColor=0d1117" alt="Certifications"/>
+  <picture><img src="https://img.shields.io/badge/CERTIFICATIONS-818cf8?style=for-the-badge&labelColor=0d1117" alt="Certifications"/></picture>
 </h2>
 
 <div align="center">
@@ -405,7 +405,7 @@ hobbies:
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
 
 <h2>
-  <img src="https://img.shields.io/badge/CURRENT-FOCUS-a855f7?style=for-the-badge&labelColor=0d1117" alt="Current Focus"/>
+  <picture><img src="https://img.shields.io/badge/CURRENT-FOCUS-a855f7?style=for-the-badge&labelColor=0d1117" alt="Current Focus"/></picture>
 </h2>
 
 ```text
@@ -422,7 +422,7 @@ Microservices Architecture     ████████████████�
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
 
 <h2>
-  <img src="https://img.shields.io/badge/CONTRIBUTION-SNAKE-7c3aed?style=for-the-badge&labelColor=0d1117" alt="Contribution Snake"/>
+  <picture><img src="https://img.shields.io/badge/CONTRIBUTION-SNAKE-7c3aed?style=for-the-badge&labelColor=0d1117" alt="Contribution Snake"/></picture>
 </h2>
 
 <div align="center">
@@ -456,8 +456,29 @@ Microservices Architecture     ████████████████�
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
 
 <h2>
-  <img src="https://img.shields.io/badge/LET'S-CONNECT-818cf8?style=for-the-badge&labelColor=0d1117" alt="Connect"/>
-he-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <picture><img src="https://img.shields.io/badge/LET'S-CONNECT-818cf8?style=for-the-badge&labelColor=0d1117" alt="Connect"/></picture>
+</h2>
+
+<div align="center">
+
+<a href="mailto:chamithusithmaka@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/sithmaka-nanayakkara-201353338/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://github.com/chamithusithmaka">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://www.facebook.com/share/TXcC4Z7LbqjE2gWf/">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+&nbsp;
+<a href="https://www.instagram.com/sithmakananayakkara/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
 </div>
@@ -465,4 +486,4 @@ he-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 <br/>
 
 <!-- ─── FOOTER WAVE ─── -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,25:7c3aed,50:4f46e5,75:1a1b4b,100:0d1117&height=120&section=footer"/>
+<picture><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,25:7c3aed,50:4f46e5,75:1a1b4b,100:0d1117&height=120&section=footer"/></picture>
