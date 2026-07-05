@@ -9,9 +9,7 @@
 
 <!-- ─── TYPING SVG ─── -->
 <br/><br/>
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+the+future%2C+one+commit+at+a+time;Full+Stack+%7C+AI%2FML+%7C+DevOps+%7C+Mobile+%7C+Cloud;Software+Engineering+Undergraduate+%40+SLIIT" alt="Typing SVG" />
-</a>
+<a href="#"<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+the+future%2C+one+commit+at+a+time;Full+Stack+%7C+AI%2FML+%7C+DevOps+%7C+Mobile+%7C+Cloud;Software+Engineering+Undergraduate+%40+SLIIT" alt="Typing SVG" />
 
 <!-- ─── PROFILE VIEWS & FOLLOWERS ─── -->
 <br/>
@@ -32,10 +30,10 @@
 <br/>
 
 <h2>
-  <a href="#"><img src="https://img.shields.io/badge/ABOUT-ME-818cf8?style=for-the-badge&labelColor=0d1117" alt="About Me"/></a>
+  <img src="https://img.shields.io/badge/ABOUT-ME-818cf8?style=for-the-badge&labelColor=0d1117" alt="About Me"/>
 </h2>
 
-<a href="#"><img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding Animation"/></a>
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding Animation"/>
 
 ```yaml
 name: Sithmaka Nanayakkara
@@ -76,7 +74,7 @@ hobbies:
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
 
 <h2>
-  <a href="#"><img src="https://img.shields.io/badge/WORK-EXPERIENCE-a855f7?style=for-the-badge&labelColor=0d1117" alt="Work Experience"/></a>
+  <img src="https://img.shields.io/badge/WORK-EXPERIENCE-a855f7?style=for-the-badge&labelColor=0d1117" alt="Work Experience"/>
 </h2>
 
 <table>
@@ -120,7 +118,7 @@ hobbies:
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
 
 <h2>
-  <a href="#"><img src="https://img.shields.io/badge/TECH-ARSENAL-7c3aed?style=for-the-badge&labelColor=0d1117" alt="Tech Arsenal"/></a>
+  <img src="https://img.shields.io/badge/TECH-ARSENAL-7c3aed?style=for-the-badge&labelColor=0d1117" alt="Tech Arsenal"/>
 </h2>
 
 <div align="center">
@@ -233,7 +231,7 @@ hobbies:
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
 
 <h2>
-  <a href="#"><img src="https://img.shields.io/badge/GITHUB-ANALYTICS-818cf8?style=for-the-badge&labelColor=0d1117" alt="GitHub Analytics"/></a>
+  <img src="https://img.shields.io/badge/GITHUB-ANALYTICS-818cf8?style=for-the-badge&labelColor=0d1117" alt="GitHub Analytics"/>
 </h2>
 
 <div align="center">
@@ -267,7 +265,7 @@ hobbies:
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
 
 <h2>
-  <a href="#"><img src="https://img.shields.io/badge/TOP-REPOSITORIES-a855f7?style=for-the-badge&labelColor=0d1117" alt="Top Repositories"/></a>
+  <img src="https://img.shields.io/badge/TOP-REPOSITORIES-a855f7?style=for-the-badge&labelColor=0d1117" alt="Top Repositories"/>
 </h2>
 
 <div align="center">
@@ -295,7 +293,7 @@ hobbies:
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
 
 <h2>
-  <a href="#"><img src="https://img.shields.io/badge/FEATURED-PROJECTS-7c3aed?style=for-the-badge&labelColor=0d1117" alt="Featured Projects"/></a>
+  <img src="https://img.shields.io/badge/FEATURED-PROJECTS-7c3aed?style=for-the-badge&labelColor=0d1117" alt="Featured Projects"/>
 </h2>
 
 <div align="center">
@@ -390,7 +388,7 @@ hobbies:
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
 
 <h2>
-  <a href="#"><img src="https://img.shields.io/badge/CERTIFICATIONS-818cf8?style=for-the-badge&labelColor=0d1117" alt="Certifications"/></a>
+  <img src="https://img.shields.io/badge/CERTIFICATIONS-818cf8?style=for-the-badge&labelColor=0d1117" alt="Certifications"/>
 </h2>
 
 <div align="center">
@@ -407,7 +405,7 @@ hobbies:
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
 
 <h2>
-  <a href="#"><img src="https://img.shields.io/badge/CURRENT-FOCUS-a855f7?style=for-the-badge&labelColor=0d1117" alt="Current Focus"/></a>
+  <img src="https://img.shields.io/badge/CURRENT-FOCUS-a855f7?style=for-the-badge&labelColor=0d1117" alt="Current Focus"/>
 </h2>
 
 ```text
@@ -424,7 +422,7 @@ Microservices Architecture     ████████████████�
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
 
 <h2>
-  <a href="#"><img src="https://img.shields.io/badge/CONTRIBUTION-SNAKE-7c3aed?style=for-the-badge&labelColor=0d1117" alt="Contribution Snake"/></a>
+  <img src="https://img.shields.io/badge/CONTRIBUTION-SNAKE-7c3aed?style=for-the-badge&labelColor=0d1117" alt="Contribution Snake"/>
 </h2>
 
 <div align="center">
@@ -458,29 +456,8 @@ Microservices Architecture     ████████████████�
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
 
 <h2>
-  <a href="#"><img src="https://img.shields.io/badge/LET'S-CONNECT-818cf8?style=for-the-badge&labelColor=0d1117" alt="Connect"/></a>
-</h2>
-
-<div align="center">
-
-<a href="mailto:chamithusithmaka@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/sithmaka-nanayakkara-201353338/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://github.com/chamithusithmaka">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-&nbsp;
-<a href="https://www.facebook.com/share/TXcC4Z7LbqjE2gWf/">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-</a>
-&nbsp;
-<a href="https://www.instagram.com/sithmakananayakkara/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/LET'S-CONNECT-818cf8?style=for-the-badge&labelColor=0d1117" alt="Connect"/>
+he-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
 </div>
